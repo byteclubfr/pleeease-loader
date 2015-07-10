@@ -1,0 +1,25 @@
+{
+  "name": "pleeease-loader",
+  "version": "1.0.0",
+  "description": "Pleeease loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Moyse <tmoyse@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lmtm/pleeease-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lmtm/pleeease-loader/issues"
+  },
+  "homepage": "https://github.com/lmtm/pleeease-loader",
+  "license": {
+    "type": "WTFPL",
+    "url": "http://www.wtfpl.net/txt/copying/"
+  },
+  "dependencies": {
+    "pleeease": "^3.3.0"
+  }
+}
