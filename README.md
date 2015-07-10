@@ -1,6 +1,6 @@
 # Pleeease for Webpack
 
-[Pleeease] loader for [webpack] to postprocesses your CSS.
+[Pleeease](pleeease.io) loader for [webpack](webpack.github.io) to postprocesses your CSS.
 
 ## Install
 
@@ -23,7 +23,7 @@ module.exports = {
 }
 ```
 
-Now your CSS files requirements will be processed by [Pleeease].
+Now your CSS files requirements will be processed by Pleeease.
 
 ## Options
 
